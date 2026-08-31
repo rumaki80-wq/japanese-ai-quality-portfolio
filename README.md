@@ -1,9 +1,7 @@
 # Japanese AI Quality Portfolio
 
 ## About Me
-
 Japanese native speaker with extensive international experience in hospitality, customer service, and client relations.
-
 I am developing expertise in AI evaluation, Japanese language quality, localization QA, customer experience, and AI product testing.
 
 ## Languages
