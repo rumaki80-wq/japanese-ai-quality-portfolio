@@ -1,0 +1,59 @@
+# Japanese Customer Support AI Evaluation Sample
+
+## Objective
+
+Evaluate an AI-generated customer support response in Japanese based on accuracy, naturalness, empathy, tone, and problem-solving quality.
+
+## Customer Scenario
+
+A hotel guest wants to cancel a reservation because of an unexpected change in travel plans.
+
+## AI-Generated Response
+
+「ご予約のキャンセルをご希望とのこと、承知いたしました。
+キャンセルポリシーにより、キャンセル料が発生する場合がございます。
+詳細については、ご予約時の条件をご確認ください。
+その他ご不明な点がございましたら、お気軽にお問い合わせください。」
+
+## Evaluation
+
+### 1. Accuracy
+Score: 4/5
+
+The response provides generally correct information without making unsupported claims. However, it does not clearly explain what information is required to confirm the actual cancellation fee.
+
+### 2. Japanese Language Quality
+Score: 5/5
+
+The Japanese is natural, polite, and appropriate for customer-facing communication.
+
+### 3. Empathy
+Score: 3/5
+
+The response acknowledges the cancellation request but could show slightly more understanding of the customer's situation.
+
+### 4. Tone
+Score: 5/5
+
+The tone is professional, respectful, and appropriate for hospitality customer service.
+
+### 5. Problem-Solving Quality
+Score: 3/5
+
+The response identifies that a cancellation policy applies but does not provide a clear next step for the customer.
+
+## Overall Assessment
+
+Overall Score: 4/5
+
+The response is polite and natural but could be improved by providing clearer guidance and a more empathetic customer-oriented response.
+
+## Suggested Improved Response
+
+「ご旅行予定の変更とのこと、承知いたしました。
+ご予約のキャンセルについてお手伝いいたします。
+
+キャンセル料の有無は、ご予約のプランとキャンセルポリシーによって異なります。
+予約番号またはご予約内容をお知らせいただければ、確認方法をご案内いたします。
+
+ご不明な点がございましたら、どうぞお気軽にお問い合わせください。」
