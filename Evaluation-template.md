@@ -39,11 +39,11 @@ Score: 5/5
 The tone is professional, respectful, and appropriate for hospitality customer service.
 
 ### 5. Problem-Solving Quality
-Score: 3/5
+Score: 3/5*Comments
 
 The response identifies that a cancellation policy applies but does not provide a clear next step for the customer.
 
-## Overall Assessment　*Evaluation score
+## Overall Assessment　*Evaluation score & *Comments（改善ポイント）
 
 Overall Score: 4/5
 
@@ -58,6 +58,4 @@ The response is polite and natural but could be improved by providing clearer gu
 予約番号またはご予約内容をお知らせいただければ、確認方法をご案内いたします。
 
 ご不明な点がございましたら、どうぞお気軽にお問い合わせください。」
-
-*Comments（改善ポイント）
 
